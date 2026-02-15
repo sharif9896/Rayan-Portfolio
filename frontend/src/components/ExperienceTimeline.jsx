@@ -23,7 +23,7 @@ const experiences = [
     icon: <Briefcase className="w-5 h-5" />,
     description: "Developed a complete CMS and LMS supporting 500+ active users, automating attendance and daily workflows.",
     tech: ["MERN Stack", "MVC", "Python"],
-    links: { demo: "#", github: "#" }
+    links: { demo: "https://lms-murex-seven.vercel.app/", github: "https://github.com/sharif9896/LMS-REAL-LIFE-PROJECT" }
   },
 
   {
@@ -33,7 +33,7 @@ const experiences = [
     icon: <GraduationCap className="w-5 h-5" />,
     description: "Customized educational software using PHP/MySQL. Leveraged GD Library for image processing and Ajax for asynchronous data updates without page reloads.",
     tech: ["PHP", "MySQL", "JS ES6+", "Ajax", "GD Library", "Bootstrap"],
-    links: { demo: "#", github: "#" }
+    links: { demo: "https://labcruise.in/alameen/index.php", github: "https://diyaprosoft.in/cpanel" }
   },
 
   {
@@ -43,7 +43,7 @@ const experiences = [
     icon: <CheckCircle2 className="w-5 h-5" />,
     description: "Replaced outdated manual scripts with a real-time tracking web app used in daily college operations.",
     tech: ["JavaScript", "Node.js", "MongoDB"],
-    links: { demo: "#", github: "#" }
+    links: { demo: "https://ica-app.vercel.app/", github: "https://github.com/sharif9896/ICA-Attendance-App-REAL-LIFE-PROJECT" }
   },
 
   {
@@ -53,7 +53,7 @@ const experiences = [
     icon: <Utensils className="w-5 h-5" />,
     description: "Developed a comprehensive food ordering platform with JWT authentication and secure image handling via Multer/Cloudinary. Implemented a strict MVC architecture for scalability.",
     tech: ["React.js", "Node.js", "JWT", "TailwindCSS", "Multer"],
-    links: { demo: "#", github: "#" }
+    links: { demo: "https://food-order-ten-drab.vercel.app/", github: "https://github.com/sharif9896/Food-Order" }
   },
 
   {
@@ -63,7 +63,7 @@ const experiences = [
     icon: <Video className="w-5 h-5" />,
     description: "Full-stack live video streaming application utilizing WebRTC and Socket.IO for low-latency communication.",
     tech: ["WebRTC", "Socket.IO", "Express.js"],
-    links: { demo: "#", github: "#" }
+    links: { demo: "https://stream-flow-jade.vercel.app/", github: "https://github.com/sharif9896/StreamX-Video-Call" }
   },
 
   {
@@ -73,7 +73,7 @@ const experiences = [
     icon: <MessageSquare className="w-5 h-5" />,
     description: "Architected a high-scale chat system using RabbitMQ for message queuing and Redis for caching. Dockerized the microservices for seamless deployment and used Socket.io for duplex communication.",
     tech: ["RabbitMQ", "Socket.io", "Redis", "Docker", "MongoDB", "Cloudinary"],
-    links: { demo: "#", github: "#" }
+    links: { demo: "https://real-time-chat-application-ten-ochre.vercel.app/", github: "https://github.com/sharif9896/Real-Time-Chat-Application" }
   },
 
   {
@@ -83,7 +83,7 @@ const experiences = [
     icon: <FileText className="w-5 h-5" />,
     description: "Built an intelligent question paper generator replacing manual MS Word processes for college staff.",
     tech: ["React.js", "Node.js", "MongoDB"],
-    links: { demo: "#", github: "#" }
+    links: { demo: "https://exam-craft-rose.vercel.app/", github: "https://github.com/sharif9896/Exam_Craft" }
   },
 ];
 
